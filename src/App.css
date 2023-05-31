@@ -1,0 +1,26 @@
+ 
+
+.app{
+
+    background-image: url(../Fondos.png);
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.loading{
+     color: aliceblue;
+     font-size: 2em;
+     font-weight: 500;
+}
+.error{
+    color: aliceblue;
+    font-size: 2em;
+    font-weight: 500;
+
+}
+
